@@ -19,11 +19,13 @@ class Services extends React.Component {
               <div className="centered">
                 <div className="serviceContent">
                   <span className="icon icon-network"></span>
-                  <h1 className="serviceTitle">Web Design</h1>
-                  <p>
-                    Development of fully responsive and interactive web pages
-                    using industry-standard tools
-                  </p>
+                  <h1 className="serviceTitle">Android Development</h1>
+                  <p> I am passionate and detail-oriented with excellent communication skills,
+                     as well as a good understanding of the android SDK and mobile application development lifecycle. 
+                     I Build Android apps with back-end API integration to improve the customer experience and cut down on development time. 
+                     I also use Expresso library in android studio to test app UI and Roboletric library to test my codes.
+
+                   </p>
                 </div>
               </div>
             </Fade>
@@ -43,7 +45,7 @@ class Services extends React.Component {
                   <h1 className="serviceTitle">Database</h1>
                   <p>
                     Creation and management of MongoDB using Express.Js
-                    and Node, MySQL using C# and Asp .Net Core 
+                    and Node.JS
                   </p>
                 </div>
               </div>

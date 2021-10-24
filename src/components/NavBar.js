@@ -37,7 +37,6 @@ class NavBar extends React.Component {
               <li onClick={() => scrollToView("portfolio")}>Portfolio</li>
               <li onClick={() => scrollToView("services")}>Services</li>
               <li onClick={() => scrollToView("resume")}>Resume</li>
-              <li onClick={() => scrollToView("blogs")}>Blogs</li>
               <li onClick={() => scrollToView("contact")}>Contact</li>
             </ul>
           </div>

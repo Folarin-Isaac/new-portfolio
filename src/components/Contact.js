@@ -1,7 +1,9 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 import $ from "jquery";
-
+import mail from '../img/gmail.png'
+import location from '../img/location.png'
+import phone from '../img/call.png'
 
 class Contact extends React.Component {
 
@@ -22,12 +24,14 @@ class Contact extends React.Component {
               <div className="contactDetails">
                 <div className="centered">
                   <div className="iconBg centered">
-                    <span className="icon icon-home"></span>
+                    <span className="icon icon-home">
+                    <img src={location} alt="mail" style={{height:"30px", width:"30px", objectFit:"contain"}} />
+                    </span>
                   </div>
                 </div>
                 <div>
                   <h3>My Address</h3>
-                  <p>Galzaxy 139GXT, React Planet, Props Zone, Redux.</p>
+                  <p>3, Chief Ibrahim Street, Off Powerline, Ikorodu, Lagos State.</p>
                 </div>
               </div>
             </Fade>
@@ -38,12 +42,14 @@ class Contact extends React.Component {
               <a href="tel:+234-703-068-0817" className="contactDetails">
                 <div className="centered">
                   <div className="iconBg centered">
-                    <span className="icon icon-phone"></span>
+                    <span className="icon icon-phone">
+                    <img src={phone} alt="mail" style={{height:"30px", width:"30px", objectFit:"contain"}} />
+                    </span>
                   </div>
                 </div>
                 <div>
                   <h3>Phone</h3>
-                  <p className="contactLink">+234-907-097-0079</p>
+                  <p className="contactLink">+234-903-402-9095</p>
                 </div>
               </a>
             </Fade>
@@ -52,17 +58,19 @@ class Contact extends React.Component {
           <div className="contactCard centered">
             <Fade bottom>
               <a
-                href="mailto:adekniyi@gmail.com"
+                href="mailto:folarinisaac36@gmail.com"
                 className="contactDetails"
               >
                 <div className="centered">
                   <div className="iconBg centered">
-                    <span className="icon icon-mail"></span>
+                    <span className="icon icon-mail">
+                    <img src={mail} alt="mail" style={{height:"30px", width:"30px", objectFit:"contain"}} />
+                    </span>
                   </div>
                 </div>
                 <div>
                   <h3>Email</h3>
-                  <p className="contactLink">adekniyi@gmail.com</p>
+                  <p className="contactLink">folarinisaac36@gmail.com</p>
                 </div>
               </a>
             </Fade>

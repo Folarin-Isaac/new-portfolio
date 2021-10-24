@@ -16,28 +16,28 @@ class About extends React.Component {
             </header>
             <div className="descTextCont">
               <p className="descText">
-                I'm a <span className="primary">Full-Stack</span> developer with
+                I'm an <span className="primary">Android</span> developer with
                 a strong sense for aesthetics and interaction.
               </p>
               <p className="descText">
                 I have{" "}
                 <span className="primary">
-                  {new Date().getFullYear() - 2018}+ Years
+                  {new Date().getFullYear() - 2019}+ Years
                 </span>{" "}
                 of experience building <span className="primary">Stable</span>{" "}
                 and
-                <span className="primary"> Maintainable</span> websites in
+                <span className="primary"> Maintainable</span> Mobile Applications in
                 fast-paced, collaborative environments. I'm Proficient at{" "}
                 <span className="primary">Creating</span> user interfaces and a{" "}
                 <span className="primary">Team Player </span>
-                versed in <span className="primary">Scrum</span> &{" "}
-                <span className="primary">Agile</span>.
+                versed in <span className="primary">Software Design Patterns</span> &{" "}
+                <span className="primary">Android Lifecycle.</span>.
               </p>
             </div>
             <div>
               <button
                 onClick={() => {
-                  window.open("./files/cv.pdf");
+                  window.open("./files/Isaac-CV.pdf");
                 }}
               >
                 Download CV

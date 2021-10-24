@@ -10,9 +10,9 @@ class Landing extends React.Component {
           <div>
             <h3 className="hello emphasise">Hey !</h3>
             <p className="f-2">
-              I'm <span className="name emphasise">Adekunle Adeniyi.</span>
+              I'm <span className="name emphasise">Isaac Oluwafemi Folarin</span>
             </p>
-            <p>A Full Stack Web Developer</p>
+            <p>An Android Developer</p>
           </div>
           <div className="centered">
             <div>

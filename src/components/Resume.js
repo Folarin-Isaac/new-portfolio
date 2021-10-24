@@ -118,14 +118,14 @@ class Resume extends React.Component {
                 Experience
               </label>
             </span>
-            <span className="icon icon-medal">
+            {/* <span className="icon icon-medal">
               <label
                 onClick={(e) => this.filter(e, "achievement")}
                 className="resumeSelector resumeTab"
               >
                 Achievement
               </label>
-            </span>
+            </span> */}
           </div>
           <div className="resumeCardWrapper container">
             <h2>{this.state.activeTab}</h2>
