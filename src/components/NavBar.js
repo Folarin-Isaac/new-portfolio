@@ -19,16 +19,26 @@ class NavBar extends React.Component {
       <nav className="navWrapper">
         <div className="menuWrapper">
           <div className="logo">
-            <img
+            <div className="logo-sub" style={{display:"flex", alignItems:"flex-end",position:"relative"}}> 
+            <span style={{ background:"red", borderRadius:"100%", height:"10px",width:"10px"}}></span>
+            <span style={{ background:"pink", borderRadius:"100%", height:"25px",width:"25px",display: "flex",
+    justifyContent: "center",
+    alignItems: "center", padding:"20px"}}>
+            <p className="ftext" style={{fontSize:"27px"}}>F</p>
+            </span>
+            <p className="ftext" style={{position:"absolute", left:"49px"}}>a</p>
+            </div>
+           
+            {/* <img
               onClick={() => window.location.reload(true)}
               src="/images/logo.svg"
               alt="logo"
-            ></img>
-            <span
+            ></img> */}
+            {/* <span
               onClick={() => this.openNav()}
               title="Open Menu"
               className="icon icon-list openNav"
-            ></span>
+            ></span> */}
           </div>
           <div className="menuLinks">
             <ul id="openNav">
