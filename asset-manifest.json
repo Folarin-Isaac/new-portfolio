@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/new-portfolio/static/css/main.29fa7170.chunk.css",
+    "main.js": "/new-portfolio/static/js/main.a9601f70.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.a9601f70.chunk.js.map",
+    "runtime-main.js": "/new-portfolio/static/js/runtime-main.5d725205.js",
+    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.5d725205.js.map",
+    "static/js/2.c1cc5427.chunk.js": "/new-portfolio/static/js/2.c1cc5427.chunk.js",
+    "static/js/2.c1cc5427.chunk.js.map": "/new-portfolio/static/js/2.c1cc5427.chunk.js.map",
+    "static/js/3.0da1335e.chunk.js": "/new-portfolio/static/js/3.0da1335e.chunk.js",
+    "static/js/3.0da1335e.chunk.js.map": "/new-portfolio/static/js/3.0da1335e.chunk.js.map",
+    "index.html": "/new-portfolio/index.html",
+    "static/css/main.29fa7170.chunk.css.map": "/new-portfolio/static/css/main.29fa7170.chunk.css.map",
+    "static/js/2.c1cc5427.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.c1cc5427.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/new-portfolio/static/media/Isaac.0ac1d92d.jpeg",
+    "static/media/call.9ecec675.png": "/new-portfolio/static/media/call.9ecec675.png",
+    "static/media/gmail.a2f2146f.png": "/new-portfolio/static/media/gmail.a2f2146f.png",
+    "static/media/location.7a3030d6.png": "/new-portfolio/static/media/location.7a3030d6.png",
+    "static/media/logo.103b5fa1.svg": "/new-portfolio/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d725205.js",
+    "static/js/2.c1cc5427.chunk.js",
+    "static/css/main.29fa7170.chunk.css",
+    "static/js/main.a9601f70.chunk.js"
+  ]
+}
