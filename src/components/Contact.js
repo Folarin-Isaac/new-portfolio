@@ -31,7 +31,7 @@ class Contact extends React.Component {
                 </div>
                 <div>
                   <h3>My Address</h3>
-                  <p>3, Chief Ibrahim Street, Off Powerline, Ikorodu, Lagos State.</p>
+                  <p> Lagos, Nigeria. </p>
                 </div>
               </div>
             </Fade>
