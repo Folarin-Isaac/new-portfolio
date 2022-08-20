@@ -126,10 +126,10 @@ class Portfolio extends React.Component {
         </div>
         <div className="portfolioTabs">
           <span
-            onClick={(e) => this.filter(e, "Frontend Web")}
+            onClick={(e) => this.filter(e, "all")}
             className="currentTab portfolioTab"
           >
-            Android Development
+            All
           </span>
           
         </div>

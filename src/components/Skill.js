@@ -26,27 +26,28 @@ class Skills extends React.Component {
               <div className="skills">
                 <span className="icon-colours"></span>
                 <ul>
-                  <li>Java</li>
-                  <li>Kotlin</li>
-                  <li>Android</li>
+                  <li>Java </li>
+                  <li>Kotlin </li>
+                  <li>Android </li>
+                  <li> Test Driven Development </li>
                 </ul>
               </div>
               <div className="skills">
                 <span className="icon-code"></span>
                 <ul>
-                  <li>Dart</li>
-                  <li>Flutter</li>
-                  <li> Node.JS</li>
+                  <li> Android XML </li>
+                  <li> Android SDKs </li>
+                  <li> RESTFUL APIs </li>
+                  <li>Firebase </li>
                 </ul>
               </div>
               <div className="skills">
                 <span className="icon-database"></span>
                 <ul>
-                  <li>MySQL</li>
-                  <li>Mongo DB</li>
-                  <li>Express JS</li>
-                  <li>Firebase</li>
-                  <li>Github</li>
+                <li> Git </li>
+                <li> Github </li>
+                  <li> Dart </li>
+                  <li> Flutter </li>
                 </ul>
               </div>
             </div>
@@ -58,3 +59,6 @@ class Skills extends React.Component {
 }
 
 export default Skills;
+
+
+ 

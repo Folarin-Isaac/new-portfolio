@@ -23,7 +23,7 @@ const projectsData = [
     technology: "Java, Firebase & Firestore",
     techIcon: "icon-genius",
     url: "https://play.google.com/store/apps/details?id=com.taofeek.citaa",
-    image: ["/images/capture1.png"],
+    image: ["/images/fashion.jpg"],
     link: "https://github.com/EngrTaofeek/cita",
     linkHover: "Git Repo",
     linkIcon: "icon-git",
@@ -31,3 +31,4 @@ const projectsData = [
   ];
 
 export default projectsData;
+
